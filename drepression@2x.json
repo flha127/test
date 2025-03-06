@@ -1,0 +1,44 @@
+{
+  "Artwork-14": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 16,
+    "y": 16
+  },
+  "Community_centre-14": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 30,
+    "y": 16
+  },
+  "Library-16": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "Museum-16": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 0,
+    "y": 16
+  },
+  "community_centre": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 32,
+    "y": 0
+  },
+  "library": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 16,
+    "y": 0
+  }
+}
